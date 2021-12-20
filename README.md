@@ -16,4 +16,3 @@ Create a program for a simple vending machine that can make proper change from t
 Google Slides Presentation:
 https://docs.google.com/presentation/d/1xBm4ZyCl06LqpfxOvHljR7L8sbbYZjrL_hC4fAicgKU/edit?usp=sharing
 
-Flowchart:
