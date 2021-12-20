@@ -12,3 +12,8 @@ Rachel Anastasia Wijaya - 2502009646
 
 Topic:
 Create a program for a simple vending machine that can make proper change from the bills or coins the customer inserts. The program needs to deliver the smallest possible amount of coins for each transaction. the currency is in US dollars.
+
+Google Slides Presentation:
+https://docs.google.com/presentation/d/1xBm4ZyCl06LqpfxOvHljR7L8sbbYZjrL_hC4fAicgKU/edit?usp=sharing
+
+Flowchart:
